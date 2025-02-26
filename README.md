@@ -1,6 +1,5 @@
-# TrotlMix
-RME's TotalMix Remote controller for dummies
 ## Open Stage Control Trotl Mix
+RME's TotalMix Remote controller for dummies
 
 This is a proof-of-concept emulation of RME TotalMix Remote, based on
 https://github.com/jean-emmanuel/open-stage-control-mcu
