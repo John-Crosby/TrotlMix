@@ -24,5 +24,5 @@ Note: The MCU protocol follows screen selection, channel layout, etc., so be sur
 
 - `custom-module`: `path/to/TrotlMix.js`
 
-
+<img width="1319" alt="Screenshot" src="https://github.com/user-attachments/assets/b46eba2e-695d-46f9-a572-8a0cec8309e0" />
 ```
